@@ -23,9 +23,9 @@ Include the neural network model diagram.
 
 ## PROGRAM
 
-### Name:DEVESH S
+### Name:BHARANI KUMAR J
 
-### Register Number: 212223230041
+### Register Number: 212224240024
 ```
 import torch as t
 import torch.nn as nn
